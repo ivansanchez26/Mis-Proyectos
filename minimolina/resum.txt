@@ -1,0 +1,23 @@
+1;Badia del Valles;14;4;9
+2;Barberà del Valles;18;11;14
+3;Castellar del Valles;24;13;18
+4;Castellbisbal;16;9;12
+5;Cerdanyola del Valles;13;5;9
+6;Gallifa;13;9;10
+7;Matadepera;9;0;3
+8;Montcada i Reixac;18;8;13
+9;Palau-solita i Plegamans;16;10;12
+10;Polinya;10;3;7
+11;Rellinars;11;5;7
+12;Ripollet;10;3;5
+13;Rubi;13;4;9
+14;Sabadell;18;10;14
+15;Sant Cugat del Vallès;20;11;15
+16;Sant Llorenc Savall;15;9;11
+17;Sant Quirze del Valles;20;10;14
+18;Santa Perpetua de Mogoda;15;7;10
+19;Sentmenat;21;12;15
+20;Terrassa;11;2;5
+21;Ullastrell;16;3;9
+22;Vacarisses;17;6;10
+23;Viladecavalls;23;13;17
